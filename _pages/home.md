@@ -1,7 +1,7 @@
 ---
 title: "Sand Lab - Home"
 layout: homelay
-excerpt: "Sand Lab at Butler University &rarr; LMU."
+excerpt: "Sand Lab at Butler University."
 sitemap: false
 permalink: /
 ---
