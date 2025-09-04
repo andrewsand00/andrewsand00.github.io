@@ -1,9 +1,9 @@
 #- name: test
 #  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
+#  info: fake
+#  email: fake
+#  number_educ: 1
+#  education1: fake
 #  education2:
 #  education3:
 #  education4:
