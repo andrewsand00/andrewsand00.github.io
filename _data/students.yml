@@ -1,11 +1,10 @@
-#- name: test123
-#  photo: rock.jpg
-#  info: fake
-#  email: fake
-#  number_educ: 1
-#  education1: fake
-#  education2:
-#  education3:
-#  education4:
-
-
+- name: tmp
+  photo: verdoes.jpg
+  duration: tmp
+  info: tmp
+  email: fake@fmd.physics.leidenuniv.nl
+  number_educ: 1
+  education1: tmp
+  education2:
+  education3:
+  education4:
