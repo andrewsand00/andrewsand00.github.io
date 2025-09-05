@@ -1,10 +1,65 @@
-- name: tmp
-  photo: verdoes.jpg
-  duration: tmp
-  info: tmp
-  email: fake@fmd.physics.leidenuniv.nl
-  number_educ: 1
-  education1: tmp
+- name: Gabriela Campbell
+  photo: 
+  duration: Spring 2024 - Fall 2024
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
   education2:
   education3:
   education4:
+  
+- name: Will Minnette
+  photo: 
+  duration: Fall 2021 - Summer 2024
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+  - name: Robert Edwards
+  photo: 
+  duration: Spring 2022 - Spring 2024
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+  - name: Avi Bedi
+  photo: 
+  duration: Fall 2021 - Spring 2024
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+  - name: Tatum Weiss
+  photo: 
+  duration: Summer 2021 - Fall 2021
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+  - name: Alex Spanenberg
+  photo: 
+  duration: Fall 2018 - Spring 2020
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:  
