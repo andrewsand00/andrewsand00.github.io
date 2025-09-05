@@ -20,7 +20,7 @@
   education3:
   education4:
 
-  - name: Robert Edwards
+- name: Robert Edwards
   photo: 
   duration: Spring 2022 - Spring 2024
   info: 
@@ -31,7 +31,7 @@
   education3:
   education4:
 
-  - name: Avi Bedi
+- name: Avi Bedi
   photo: 
   duration: Fall 2021 - Spring 2024
   info: 
@@ -42,7 +42,7 @@
   education3:
   education4:
 
-  - name: Tatum Weiss
+- name: Tatum Weiss
   photo: 
   duration: Summer 2021 - Fall 2021
   info: 
@@ -53,7 +53,7 @@
   education3:
   education4:
 
-  - name: Alex Spanenberg
+- name: Alex Spanenberg
   photo: 
   duration: Fall 2018 - Spring 2020
   info: 
