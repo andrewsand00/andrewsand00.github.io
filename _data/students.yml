@@ -1,10 +1,10 @@
-- name: tmp
-  photo: verdoes.jpg
-  duration: tmp
-  info: tmp
-  email: fake@fmd.physics.leidenuniv.nl
-  number_educ: 1
-  education1: tmp
+- name: This could be you!
+  photo: 
+  duration: 
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
   education2:
   education3:
   education4:
