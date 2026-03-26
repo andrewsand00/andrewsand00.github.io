@@ -1,12 +1,21 @@
 ---
-title: "Allan Lab - Research"
+title: "Sand Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Sand Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
+
+The Sand lab develops and uses electronic structure theory methods to describe properties of chemical systems where strong electron correlation effects are important.
+
+**Current research interests**
+1. Development of new tools to investigate the role of electron correlation effects in nanoscale electronic devices.
+2. Exploring chemical reactions involving carbene species using multiconfigurational methods.
+3. Improving algorithmic efficiency of existing computational methodologies.
+
+**Nanoscale elctronic devices**
 
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 

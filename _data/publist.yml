@@ -1,59 +1,47 @@
-- title: The Use of Effective Core Potentials with Multiconfiguration Pair-Density
-    Functional Theory
+- title: "The Use of Effective Core Potentials with Multiconfiguration Pair-Density
+    Functional Theory"
   authors: Minnette, William E. III, Hoy, Erik P., Sand, Andrew M.
   year: '2024'
   venue: J. Phys. Chem. A
   doi: 10.1021/acs.jpca.4c02666
-  url: https://doi.org/10.1021/acs.jpca.4c02666
   type: article
-- title: 'The OpenMolcas Web: A Community-Driven Approach to Advancing Computational
-    Chemistry'
-  authors: Li Manni, Giovanni, Fdez. Galván, Ignacio, Alavi, Ali, Aleotti, Flavia,
-    Aquilante, Francesco, Autschbach, Jochen, Avagliano, Davide, Baiardi, Alberto,
-    Bao, Jie J., Battaglia, Stefano, Birnoschi, Letitia, Blanco-González, Alejandro,
-    Bokarev, Sergey I., Broer, Ria, Cacciari, Roberto, Calio, Paul B., Carlson, Rebecca
-    K., Carvalho Couto, Rafael, Cerdán, Luis, Chibotaru, Liviu F., Chilton, Nicholas
-    F., Church, Jonathan Richard, Conti, Irene, Coriani, Sonia, Cuéllar-Zuquin, Juliana,
-    Daoud, Razan E., Dattani, Nike, Decleva, Piero, de Graaf, Coen, Delcey, Mickaël
-    G., De Vico, Luca, Dobrautz, Werner, Dong, Sijia S., Feng, Rulin, Ferré, Nicolas,
-    Filatov(Gulak), Michael, Gagliardi, Laura, Garavelli, Marco, González, Leticia,
-    Guan, Yafu, Guo, Meiyuan, Hennefarth, Matthew R., Hermes, Matthew R., Hoyer, Chad
-    E., Huix-Rotllant, Miquel, Jaiswal, Vishal Kumar, Kaiser, Andy, Kaliakin, Danil
-    S., Khamesian, Marjan, King, Daniel S., Kochetov, Vladislav, Krośnicki, Marek,
-    Kumaar, Arpit Arun, Larsson, Ernst D., Lehtola, Susi, Lepetit, Marie-Bernadette,
-    Lischka, Hans, López Ríos, Pablo, Lundberg, Marcus, Ma, Dongxia, Mai, Sebastian,
-    Marquetand, Philipp, Merritt, Isabella C. D., Montorsi, Francesco, Mörchen, Maximilian,
-    Nenov, Artur, Nguyen, Vu Ha Anh, Nishimoto, Yoshio, Oakley, Meagan S., Olivucci,
-    Massimo, Oppel, Markus, Padula, Daniele, Pandharkar, Riddhish, Phung, Quan Manh,
-    Plasser, Felix, Raggi, Gerardo, Rebolini, Elisa, Reiher, Markus, Rivalta, Ivan,
-    Roca-Sanjuán, Daniel, Romig, Thies, Safari, Arta Anushirwan, Sánchez-Mansilla,
-    Aitor, Sand, Andrew M., Schapiro, Igor, Scott, Thais R., Segarra-Martí, Javier,
-    Segatta, Francesco, Sergentu, Dumitru-Claudiu, Sharma, Prachi, Shepard, Ron, Shu,
-    Yinan, Staab, Jakob K., Straatsma, Tjerk P., Sørensen, Lasse Kragh, Tenorio, Bruno
-    Nunes Cabral, Truhlar, Donald G., Ungur, Liviu, Vacher, Morgane, Veryazov, Valera,
-    Voß, Torben Arne, Weser, Oskar, Wu, Dihua, Yang, Xuchun, Yarkony, David, Zhou,
-    Chen, Zobel, J. Patrick, Lindh, Roland
+  link:
+    url: https://doi.org/10.1021/acs.jpca.4c02666
+    display: J. Phys. Chem A, 128, 6555
+
+- title: "The OpenMolcas Web: A Community-Driven Approach to Advancing Computational
+    Chemistry"
+  authors: Li Manni, Giovanni, Fdez. Galván Ignacio, et al.
   year: '2023'
   venue: J. Chem. Theory Comput.
   doi: 10.1021/acs.jctc.3c00182
-  url: https://doi.org/10.1021/acs.jctc.3c00182
   type: article
+  link:
+    url: https://doi.org/10.1021/acs.jctc.3c00182
+    display: J. Chem. Theory Comput., 19, 6933
+
 - title: Analytic gradients for compressed multistate pair-density functional theory
   authors: Bao, Jie J., Hermes, Matthew R., Scott, Thais R., Sand, Andrew M., Lindh,
     Roland, Gagliardi, Laura, Truhlar, Donald G.
   year: '2022'
   venue: Molecular Physics
   doi: 10.1080/00268976.2022.2110534
-  url: https://doi.org/10.1080/00268976.2022.2110534
   type: article
+  link:
+    url: https://doi.org/10.1080/00268976.2022.2110534
+    display: Mol. Phys., 120, e2110534
+
 - title: A multiconfiguration pair-density functional theory-based approach to molecular
     junctions
   authors: Sand, Andrew M., Malme, Justin T., Hoy, Erik P.
   year: '2021'
   venue: J. Chem. Phys.
   doi: 10.1063/5.0063293
-  url: https://doi.org/10.1063/5.0063293
   type: article
+  link:
+    url: https://doi.org/10.1063/5.0063293
+    display: J. Chem. Phys., 155, 114115
+
 - title: 'Analytic gradients for multiconfiguration pair-density functional theory
     with density fitting: Development and application to geometry optimization in
     the ground and excited states'
@@ -62,8 +50,11 @@
   year: '2021'
   venue: J. Chem. Phys.
   doi: 10.1063/5.0039258
-  url: https://doi.org/10.1063/5.0039258
   type: article
+  link:
+    url: https://doi.org/10.1063/5.0039258
+    display: J. Chem. Phys., 154, 074108
+
 - title: Analytic gradients for state-averaged multiconfiguration pair-density functional
     theory
   authors: Scott, Thais R., Hermes, Matthew R., Sand, Andrew M., Oakley, Meagan S.,
@@ -71,13 +62,18 @@
   year: '2020'
   venue: J. Chem. Phys.
   doi: 10.1063/5.0007040
-  url: https://doi.org/10.1063/5.0007040
   type: article
+  link:
+    url: https://doi.org/10.1063/5.0007040
+    display: J. Chem. Phys., 153, 014106
+
 - title: Calculation of Chemical Reaction Barrier Heights by Multiconfiguration Pair-Density
     Functional Theory with Correlated Participating Orbitals
   authors: Sand, Andrew M., Kidder, Katherine M., Truhlar, Donald G., Gagliardi, Laura
   year: '2019'
   venue: J. Phys. Chem. A
   doi: 10.1021/acs.jpca.9b08134
-  url: https://doi.org/10.1021/acs.jpca.9b08134
   type: article
+  link:
+    url: https://doi.org/10.1021/acs.jpca.9b08134
+    display: J. Phys. Chem. A, 123, 9809
