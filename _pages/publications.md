@@ -9,6 +9,7 @@ permalink: /publications/
 
 # Publications
 
+{% comment %}
 ## Group highlights
 
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications).**
@@ -52,6 +53,8 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 ## Full List of publications
+{% endcomment %}
+
 
 {% for publi in site.data.publist %}
 
