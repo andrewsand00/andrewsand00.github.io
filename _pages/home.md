@@ -6,9 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-**News: We have openings for undergraduate research students!** Join us! 
+**News: We have openings for undergraduate research students!** If you would like to learn more, please email Dr. Sand at amsand@butler.edu 
 
-We are a research group at Butler University. 
+We are a research group at Butler University and our lab focuses on the application of theoretical chemistry techniques to chemical systems.
 
-We have two overarching goals: first, 
 
