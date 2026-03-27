@@ -11,3 +11,4 @@ permalink: /
 We are a research group at Butler University and our lab focuses on the application of theoretical chemistry techniques to chemical systems.
 
 
+![]({{ site.url }}{{ site.baseurl }}/images/eu_mol.png){: style="width: 70%; float: center; margin: 10px"}
