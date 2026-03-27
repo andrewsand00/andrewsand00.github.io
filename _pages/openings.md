@@ -14,5 +14,5 @@ We are looking for new group members with passion, curiosity, and grit!
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/carbene.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/sp_poster.jpg" width="95%">
 </figure>
